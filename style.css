@@ -1,5 +1,5 @@
 body{
-    
+    backgroud-color : #90EE90
     
 }
 
@@ -34,7 +34,7 @@ body{
 
 button{
     border:none;
-    background-color: cadetblue;
+    background-color: blue;
     color:#fff;
     padding:10px 20px;
     font-size:16px;
